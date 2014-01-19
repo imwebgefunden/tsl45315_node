@@ -1,5 +1,5 @@
 {
-  "name": "node_tsl45315",
+  "name": "sensor_tsl45315",
   "version": "0.2.0",
   "description": "A node.js-module for the TSL45315 light sensor",
   "main": "tsl45315.js",
