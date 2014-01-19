@@ -1,6 +1,6 @@
 {
   "name": "sensor_tsl45315",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A node.js-module for the TSL45315 light sensor",
   "main": "tsl45315.js",
   "dependencies": {
